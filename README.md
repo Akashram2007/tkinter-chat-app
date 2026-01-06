@@ -53,9 +53,6 @@ python client.py
 
 ## 🖼 Screenshots
 
-> Add your images inside a folder named screenshots/  
-> Then rename them like below and they will display automatically.
-
 ![Login Screen](screenshots/login.png)
 ![Chat Window](screenshots/chat.png)
 
